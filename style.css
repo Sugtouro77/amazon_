@@ -1,0 +1,563 @@
+.box{
+    width: 100%;
+    height: 50px;
+    border: 1px solid rgb(7, 2, 41);
+    background: rgb(1, 0, 8);
+    display: flex;
+    align-items: ;
+}
+.img{
+    width: 150px;
+    height: 100%;
+    background: url("Amazon.com_Logo-1\ \(1\).jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+.ras{
+    position: relative;
+    top: 10px;
+}
+.rad{
+    position: relative;
+    top: 10px;
+}
+.raf{
+    position: relative;
+    top: -45px;    
+}
+.rag{
+    position: relative;
+    top: 10px;
+}
+.img:hover{
+    border: 1px solid white;
+    width: 150px;height: 50px;
+}
+.qw{
+    white-space: nowrap; 
+    position: relative;
+    bottom: 13px;
+    left: 6px;
+    font-size: 10px;
+}
+.b{
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+input{
+    height: 45px;
+    width: 300px;
+    border-radius: 5px;
+}
+.asq{
+    width: 40px;
+    height: 20px;
+    position: relative;
+    top: 18px;
+    left: 6px;
+}
+.er{
+    position: relative;
+    left: -35px;
+ 
+}
+.geo{
+    width:100px ;
+    height: 49px; 
+    border: 1px solid rgb(7, 2, 41);
+    background: rgb(1, 0, 8);
+    display: flex;
+     align-items: center;
+    color: white;
+
+}
+.li:hover{
+ border: 1px solid white;
+}
+.lii:hover{
+    border: 1px solid white;
+   }
+   .liii:hover{
+    border: 1px solid white;
+   }
+   .liiii:hover{
+    border: 1px solid white;
+   }
+   .liiiii:hover{
+    border: 1px solid white;
+   }
+   .lii{
+    position: relative;
+    left: 10px;
+   }
+   .liii{
+    position: relative;
+    left: 20px;
+   }
+   .liiii{
+    position: relative;
+    left: 30px;
+   }
+   .liiiii{
+    position: relative;
+    left: 40px;
+   }
+   .for{
+    width: 80%;
+    height: 200px;
+    
+    background: url("anime-naruto-itachi-uchiha-wallpaper-thumb.jpg");
+    background-size: cover;
+    background-position: center;
+    
+   } 
+   .forr{
+    width: 80%;
+    height: 200px;
+    
+    background: url("asq.png");
+    background-size: cover;
+    background-position: center;
+    
+   }
+   .h2{
+    white-space: nowrap;
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+    
+   }
+   .h1{
+    white-space: nowrap;
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    left: 60px;
+    
+   }
+   .box1{
+    width: 850px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    
+    top: 250px;
+    justify-content: space-between;
+    padding: 20px;
+    position: relative;
+    top:350px;
+ }
+ .qe{
+    width: 200px;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .qr{
+    width: 200px;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .qt{
+    width: 200px;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+ .qq{
+    width: 200px;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ }
+   .fon{
+    width: 100%;
+    height: 60vh;
+    background: url("./717RUPA1bDL._SX3000_.jpg");
+    background-position: top ;
+    background-size: cover;
+    display:flex;
+    justify-content: space-between;
+   }
+   .q{
+    width: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   }
+   .w{
+    width: 250px;
+    border: 1px solid rgb(255, 243, 243);
+    background: white;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+   }
+   .e{
+    width: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+
+
+    align-items: center;
+    justify-content: center;
+   }
+   a{
+    text-decoration: none;
+    font-size: 13px;
+   }
+   a:hover{
+    color: orange;
+   }
+   .aa{
+    white-space: nowrap;   
+   }
+   .r{
+    width: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: white;
+    display: flex;
+    flex-direction: column;
+
+    background-size: cover;
+
+    align-items: center;
+    justify-content: center;
+   }
+   .loo{
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    height: 300px;
+   }
+   .fon2{
+    position: relative;
+   
+   }
+   .lo{
+    width: 850px;
+    justify-content: center;
+    height: 460vh;
+    display:flex;
+    justify-content: center;
+    justify-content: space-between !important;
+    
+    margin-top: 150px;
+    padding:20px;
+   }
+   .a1{
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+    left: 30px;
+   }
+   .pic{
+    width: 749px;
+    height: 50px;
+ 
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: 350px;
+    justify-content: space-between;
+    padding: 8%;
+
+    flex-direction: column;
+   }
+   .RASM{
+    
+        width: 749px;
+        height: 50px;
+     
+        position: relative;
+        display: flex;
+        align-items: center;
+        top: 350px;
+        justify-content: space-between;
+        padding: 8%;
+        flex-direction: column;
+       position: relative;
+      top: ;
+      margin-bottom: 100px;
+   }
+   .lola{
+
+   }
+   .pick{
+        display: flex;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    bottom: 90px;
+   }
+   .bok{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    bottom: 40px;
+
+   }
+   .book{
+    width: 850px;
+    height: 200px;
+   
+    position: relative;
+    display: flex;
+    top: 300px;
+    justify-content: space-between;
+    padding: 20px;
+    flex-direction: column;
+   }
+   .ol{
+    width: 850px;
+    height: 60vh;
+  
+    position: relative;
+    display: flex;
+    top: 250px;
+    justify-content: space-between;
+    padding: 20px;
+   }
+   .lola{
+
+        width: 850px;
+        height: 200px;
+
+        position: relative;
+        display: flex;
+        top: 250px;
+        justify-content: space-between;
+        padding: 20px;
+        margin-top: 200px;
+       
+   }
+   .nos{
+    width: 200px;
+    height: 250px;
+ 
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .nod{
+    width: 200px;
+    height: 250px;
+
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .nof{
+    width: 200px;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .nog{
+    width: 200px;
+    height: 250px;
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .hj{
+    font-size: 49px;
+
+   }
+   .imk{
+    width: 150px;
+    height: 240px;
+    background: url("IMG_20230626_094440_600.jpg");
+    background-size: cover;
+    background-position: center;
+   }
+   .z{
+    width: 200px;
+    height: 250px;
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .x{
+    width: 200px;
+    height: 250px;
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .hh{
+    font-size: 15px;
+   }
+   .c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    background: rgb(243, 243, 243);
+     
+   }
+   .span{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    width: 5px;
+    position: relative;
+    left: 800px;
+    top: -60px;
+    font-size: 10px;
+}
+.unav{
+    width: 100%;
+    height: 50px ;
+   
+    position: relative;
+    top: 300px;
+    background: #02022b;
+}
+*{
+ 
+}
+   .v{
+    width: 200px;
+    height: 250px;
+    background: rgb(243, 243, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     
+   }
+   .last{
+    width: 100%;
+    height: 100px;
+ 
+    position: relative;
+    top: 300px;
+   }
+   .unav:hover{
+    background: #5141e4;
+   }
+ 
+   
+.nav1{
+    width: 100%;
+    height: 30px;
+    background: rgb(7, 2, 41);
+    display: flex;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    
+    color: white;
+}
+html, body{
+    overflow-x:hidden ;
+}
+.unas{
+    width: 100%;
+    height: 500px;
+    background: rgb(0, 0, 0);
+    position: relative;
+    top: 300px;
+    display: flex;
+    border: none;
+    border-bottom: 1px solid white;
+}
+.loi{
+    margin-left: 200px;
+    display: flex;
+}
+button{
+    position: relative;
+    top: 400px;
+    right: 450px;
+    width: 70px;
+    border: 1px solid white;
+
+    background: none;
+    color: white;
+    height: 20px;
+}
+
+.class{
+    position: relative;
+    left: 10px;
+}
+.class:hover{
+    border: 1px solid white;
+}
+#as:hover{
+ border: 1px solid white;
+}
+.Orders:hover{
+    border: 1px solid white;
+    width: 70px;height: 30px;
+    
+}
+.Order:hover{
+    border: 1px solid white;
+    width: 50px;height: 30px;
+    
+}
+.Orde:hover{
+    border: 1px solid white;
+    width: 50px;height: 30px;
+    
+}
+.geo:hover{
+    border: 1px solid white;
+    width: 110px;height: 50px;
+    
+}
